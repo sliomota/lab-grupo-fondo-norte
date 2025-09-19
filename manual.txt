@@ -1,0 +1,3 @@
+Este es el manual del proyecto
+Aqui se pondrá la informacion referente a la aplicacion
+Importante hacer pull antes de realizar nada
